@@ -1,0 +1,29 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "JS FE for websocket app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ML6503/websockets-chat.git"
+  },
+  "keywords": [
+    "JS",
+    "Websocket",
+    "chat",
+    "client"
+  ],
+  "author": "ML6503",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ML6503/websockets-chat/issues"
+  },
+  "homepage": "https://github.com/ML6503/websockets-chat#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "ws": "^8.11.0"
+  }
+}
