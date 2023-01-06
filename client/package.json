@@ -22,8 +22,8 @@
     "url": "https://github.com/ML6503/websockets-chat/issues"
   },
   "homepage": "https://github.com/ML6503/websockets-chat#readme",
+  "type": "module",
   "dependencies": {
-    "dotenv": "^16.0.3",
     "ws": "^8.11.0"
   }
 }
